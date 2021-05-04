@@ -17,7 +17,6 @@ after_success:
 
 deploy:
   provider: elasticbeanstalk
-  # Dockerreactapp-env.eba-aaei96sn.us-east-2.elasticbeanstalk.com  (e-ydiprenvfm)
   region: "us-east-2"
   app: "docker-react-app"
   env: "Dockerreactapp-env"
