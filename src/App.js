@@ -15,8 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          안녕 세상아~
-          드디어 첫 배포에 성공.ㅋㅋㅋ  
+          여보 드디어 해냈어 ㅠㅠㅠ  
         </a>
       </header>
     </div>
